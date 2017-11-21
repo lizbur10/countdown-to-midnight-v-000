@@ -1,6 +1,6 @@
 #write your code here
 
 def countdown(count)
-  puts "#{count} SECOND(S)!"
   count -+ 1
+  puts "#{count} SECOND(S)!"
 end
